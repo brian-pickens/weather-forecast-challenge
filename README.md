@@ -11,6 +11,7 @@ Here at Sunny Corp, we would like to build a new internal portal to display the 
 - Display the wind speed and wind direction with relevant icon
 - Unit tests should be present with at least 50% coverage
 - All other resources or tools you use are completely up to you
+- Extra points if you can include a 5 day forecast
 
 ## Resources
 
@@ -23,6 +24,6 @@ This should be enough to get you started. Good luck!
 
 ## Example
 
-![image](https://user-images.githubusercontent.com/3659859/155451559-f682df22-2f7f-4c8b-9210-6e3d4db95ce5.png)
+![image](https://user-images.githubusercontent.com/3659859/155417673-9ca54259-3494-446f-adc0-f7de3fe99af7.png)
 
 *This is an example. Feel free to build and style however you like.*
